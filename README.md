@@ -155,8 +155,8 @@ No known bugs at this time.
 
 ## Authors
 Oyindamola Ekundayo - [Github](https://github.com/ekundayo365) / [Twitter](https://twitter.com/profdammy)  
-Jerry Francis -
+Olayinka Saheed -
 
-Second part of Airbnb
+Fourth part of Airbnb
 ## License
 Public Domain. No copy write protection. 
